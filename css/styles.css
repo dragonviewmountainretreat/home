@@ -58,6 +58,7 @@ p {
 #menu {
     position: relative;
     background: #11698E;
+    border-top: 0;
     border-bottom: 6px solid #7F8400;
     height: 3.5em;
     padding: 0em;
@@ -181,14 +182,15 @@ p {
 
 .headerpic {
     display: flex;
-    padding-left: 38rem;
-    padding-top: 1rem;
-    padding-bottom: 0.9rem;
+    padding-left: 60%;
+    padding-top: 0.5rem;
+    padding-bottom: 0.6rem;
     position: relative;
     height: 50px;
     background: #11698E;
     border-bottom: 0;
 }
+
 .vrbo {
   border: 0;
 }
