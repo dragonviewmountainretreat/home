@@ -53,10 +53,9 @@ h3, h4, h5 {
 }
 .headerpic {
     display: flex;
-    padding-left: 45rem;
+    padding-left: 40rem;
     padding-top: 1rem;
     padding-bottom: 0.9rem;
-    padding-right: 10rem;
     position: relative;
     height: 50px;
     background: #11698E;
