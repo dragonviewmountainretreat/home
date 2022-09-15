@@ -150,7 +150,7 @@ p {
 
 
 .airbnb {
-  padding-right: 1rem;
+  padding-right: 2rem;
   border: 0;
 }
 .box {
@@ -164,6 +164,9 @@ p {
 }
 .contentarea {
     padding-top: 1.3em;
+}
+.box p {
+  color: white;
 }
 .divider1 {
     position: relative;
